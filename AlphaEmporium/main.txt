@@ -1,2 +1,12 @@
+
 backend 
+<<<<<<< HEAD
 frontend
+=======
+frontend 
+
+details added by Abhishek
+
+backend : server.ts Added by Bhanu
+frontend 
+>>>>>>> 3bcdaa8a48471f57dd4da4598babe6aaee0d8134
