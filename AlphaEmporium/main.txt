@@ -7,9 +7,9 @@ details added by Abhishek
 backend : server.ts Added by Bhanu
 frontend 
 
-<<<<<<< HEAD
+
 Coding challenge
-=======
+
 
 MainPage added by abhi
->>>>>>> 9dc8bf8ad112dd581ec5b008945050503afedd95
+
